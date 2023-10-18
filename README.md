@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Ehsan-FM/results-summary-component/)
-- Live Site URL: [netlify](https://ehsan-fm-results-summary-component.netlify.app/)
+- Live Site URL: [netlify](https://ehsan-results-summary.netlify.app/)
 
 ### Built with
 
